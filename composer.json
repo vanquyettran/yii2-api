@@ -1,0 +1,10 @@
+{
+    "name": "vanquyet/yii2-api",
+    "authors": [
+        {
+            "name": "vanquyettran",
+            "email": "vanquyettran@hotmail.com"
+        }
+    ],
+    "require": {}
+}
